@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi Fellow Devs :wave:
 
-<!--
-**yasirfolio3/yasirfolio3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <samp>
+I'm Yasir Ali. Senior Mobile and Golang Developer and Open Source Enthusiast from Toronto (Canada).
+  </samp>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yasirfolio3&show_icons=true" alt="Yasir Ali's Github Stats"></img>
+</p>
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=swift,dart,go,flutter,github,visualstudio)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me :speech_balloon:
+
+Get in touch with me!
+
+:bird: <a href="https://twitter.com/YasirShoro17">Chat with me on Twitter</a>
+
+:e-mail: <a href="mailto:yasiralishoro@yahoo.com">Send an e-mail</a>
+
+
